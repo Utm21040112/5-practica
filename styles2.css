@@ -1,0 +1,34 @@
+body{
+  background-color: beige;
+}
+
+.div{
+  display:flex;
+}
+
+body{
+  transform: translateX(17%);
+}
+
+.div img{
+  width: 200px;
+  height: 200px;
+}
+
+#link{
+  transform:translate(140px,200px);
+}
+
+.tit1{
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(8, 8, 8);
+}
+
+
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+

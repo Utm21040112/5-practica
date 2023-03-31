@@ -1,0 +1,26 @@
+ body{
+    font-size: 25px;
+    background-color: beige;
+}
+
+.tit1{
+    font-size: 23px;
+    background: beige;
+    color: rgb(12, 12, 12);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.tit2{
+    font-size: 23px;
+    background-color: beige;
+    color:  rgb(15, 15, 15);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.td{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#happ{
+  background-color:yellow;  
+}

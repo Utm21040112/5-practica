@@ -1,0 +1,19 @@
+body{
+    background-color:beige;
+}
+
+.contenido1{
+    font-size: 5px;
+}
+
+  .h2:hover{
+    font-size: 25px;
+    color: blue;
+  }
+
+  main {
+    width: 100%;
+    height: 500px;
+    border: 10px solid rgb(211, 211, 80);
+    padding: 20px 35px;
+  }
